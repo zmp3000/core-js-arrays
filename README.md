@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core JS Arrays
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
@@ -85,3 +86,6 @@ $ npm run lint -- --fix
 
 ___
 The task based on https://github.com/rolling-scopes-school/js-assignments.
+=======
+# core-js-arrays
+>>>>>>> b1ef7627a3d930a914c21ddfcc0e9c9578aa568b
