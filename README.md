@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Core JS Arrays
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
